@@ -44,7 +44,7 @@
     <link href="http://dm732.xyz/2016/02/22/github%E8%B5%84%E6%BA%90%E7%9B%AE%E5%BD%95%E7%95%99%E5%AD%98/"/>
     <id>http://dm732.xyz/2016/02/22/github资源目录留存/</id>
     <published>2016-02-22T08:03:45.000Z</published>
-    <updated>2016-02-22T15:03:04.688Z</updated>
+    <updated>2016-02-22T15:05:00.501Z</updated>
     
     <content type="html">&lt;h2 id=&quot;资源目录&quot;&gt;&lt;a href=&quot;#资源目录&quot; class=&quot;headerlink&quot; title=&quot;资源目录&quot;&gt;&lt;/a&gt;资源目录&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#语言无关&quot;&gt;语言无关&lt;/a&gt;&lt;ul&gt;
@@ -71,7 +71,7 @@
 &lt;li&gt;&lt;a href=&quot;#计算机图形学&quot;&gt;计算机图形学&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#设计模式&quot;&gt;设计模式&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#软件开发方法&quot;&gt;软件开发方法&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#项目相关&quot;&gt;项目相关&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#项目相关&quot;&gt;项目相关&lt;/a&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#语言相关&quot;&gt;语言相关&lt;/a&gt;&lt;ul&gt;
@@ -611,7 +611,30 @@
     
       &lt;h2 id=&quot;资源目录&quot;&gt;&lt;a href=&quot;#资源目录&quot; class=&quot;headerlink&quot; title=&quot;资源目录&quot;&gt;&lt;/a&gt;资源目录&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#语言无关&quot;&gt;语言无关&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#mysql&quot;&gt;MySQL&lt;
+&lt;li&gt;&lt;a href=&quot;#mysql&quot;&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#nosql&quot;&gt;NoSQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#postgresql&quot;&gt;PostgreSQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#web&quot;&gt;Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#web服务器&quot;&gt;WEB服务器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#其它&quot;&gt;其它&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#函数式概念&quot;&gt;函数式概念&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#分布式系统&quot;&gt;分布式系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#在线教育&quot;&gt;在线教育&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#大数据&quot;&gt;大数据&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#操作系统&quot;&gt;操作系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#数据库&quot;&gt;数据库&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#智能系统&quot;&gt;智能系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#正则表达式&quot;&gt;正则表达式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#版本控制&quot;&gt;版本控制&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#程序员杂谈&quot;&gt;程序员杂谈&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#管理和监控&quot;&gt;管理和监控&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#编程艺术&quot;&gt;编程艺术&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#编译原理&quot;&gt;编译原理&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#编辑器&quot;&gt;编辑器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#计算机图形学&quot;&gt;计算机图形学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#设计模式&quot;&gt;设计模式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#软件开发方法&quot;&gt;软件开发方法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#项目相关&quot;&gt;项目相关&lt;/a&gt;
     
     </summary>
     
@@ -1012,13 +1035,13 @@
     <link href="http://dm732.xyz/2014/07/23/PM%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/"/>
     <id>http://dm732.xyz/2014/07/23/PM基本工作流程/</id>
     <published>2014-07-23T08:03:45.000Z</published>
-    <updated>2016-02-22T14:46:06.499Z</updated>
+    <updated>2016-02-22T15:05:18.156Z</updated>
     
     <content type="html">&lt;p&gt;###关于需求和逻辑梳理&lt;/p&gt;
 &lt;p&gt;PM工作流程基本按照下面的的几步进行：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;从商业模式、竞品情况、用户预期、公司资源等几个方面，确定基本的业务目标。&lt;/li&gt;
-&lt;li&gt;将业务目标化分为N项功能，例如内容展示、用户交互、商业需求等，然后继续细分。&lt;/li&gt;
+&lt;li&gt;将业务目标化分为N项功能，例如内容展示、用户交互、商业需求等，然后继续细分。&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;白板及草稿阶段，根据确定的细分功能，确定信息架构，制作产品原型。&lt;/li&gt;
 &lt;li&gt;优化、确定交互细节。与UI协同办公。&lt;/li&gt;
 &lt;li&gt;在高保真原型的进行设计的同时，着手制作PRD。&lt;/li&gt;
