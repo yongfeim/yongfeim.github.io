@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dm732.xyz/"/>
-  <updated>2016-02-22T15:00:14.008Z</updated>
+  <updated>2016-02-22T15:05:00.501Z</updated>
   <id>http://dm732.xyz/</id>
   
   <author>
@@ -14,30 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Axure小练习</title>
-    <link href="http://dm732.xyz/2016/02/22/Axure%E5%B0%8F%E7%BB%83%E4%B9%A0/"/>
-    <id>http://dm732.xyz/2016/02/22/Axure小练习/</id>
-    <published>2016-02-22T15:00:14.008Z</published>
-    <updated>2016-02-22T15:00:14.008Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://c18e0l.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;进度条、倒计时、Flash等内容。&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://3cg7bo.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;一个网站小样&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://jowp7s.axshare.com/#c=2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;仿点点主页、登录、注册。&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;http://c18e0l.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;进度条、倒计时、Flash等内容。&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://3cg7bo.axshare.com&quot; targ
-    
-    </summary>
-    
-    
-      <category term="产品" scheme="http://dm732.xyz/tags/%E4%BA%A7%E5%93%81/"/>
-    
-  </entry>
   
   <entry>
     <title>github资源目录留存</title>
@@ -1031,13 +1007,37 @@
   </entry>
   
   <entry>
+    <title>Axure小练习</title>
+    <link href="http://dm732.xyz/2014/08/20/Axure%E5%B0%8F%E7%BB%83%E4%B9%A0/"/>
+    <id>http://dm732.xyz/2014/08/20/Axure小练习/</id>
+    <published>2014-08-20T08:03:45.000Z</published>
+    <updated>2016-02-22T15:10:38.297Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://c18e0l.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;进度条、倒计时、Flash等内容。&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://3cg7bo.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;一个网站小样&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jowp7s.axshare.com/#c=2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;仿点点主页、登录、注册。&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;http://c18e0l.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;进度条、倒计时、Flash等内容。&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://3cg7bo.axshare.com&quot; targ
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://dm732.xyz/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PM基本工作流程</title>
     <link href="http://dm732.xyz/2014/07/23/PM%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/"/>
     <id>http://dm732.xyz/2014/07/23/PM基本工作流程/</id>
     <published>2014-07-23T08:03:45.000Z</published>
-    <updated>2016-02-22T15:05:18.156Z</updated>
+    <updated>2016-02-22T15:10:40.551Z</updated>
     
-    <content type="html">&lt;p&gt;###关于需求和逻辑梳理&lt;/p&gt;
+    <content type="html">&lt;p&gt;关于需求和逻辑梳理&lt;/p&gt;
 &lt;p&gt;PM工作流程基本按照下面的的几步进行：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;从商业模式、竞品情况、用户预期、公司资源等几个方面，确定基本的业务目标。&lt;/li&gt;
@@ -1047,7 +1047,7 @@
 &lt;li&gt;在高保真原型的进行设计的同时，着手制作PRD。&lt;/li&gt;
 &lt;li&gt;将制作完成的设计稿及PRD交予开发人员进行开发。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;###工作中的协作与并发执行&lt;/p&gt;
+&lt;p&gt;工作中的协作与并发执行&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;确定业务目标时，进行头脑风暴。整组成员需要对产品产生基本认识。&lt;/li&gt;
 &lt;li&gt;头脑风暴后，共同模拟使用场景，确定产品适用的主场景。&lt;/li&gt;
@@ -1064,7 +1064,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;###关于需求和逻辑梳理&lt;/p&gt;
+      &lt;p&gt;关于需求和逻辑梳理&lt;/p&gt;
 &lt;p&gt;PM工作流程基本按照下面的的几步进行：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;从商业模式、竞品情况、用户预期、公司资源等几个方面，确定基本的业务目标。&lt;/li&gt;
