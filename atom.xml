@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dm732.xyz/"/>
-  <updated>2016-02-22T15:12:57.043Z</updated>
+  <updated>2016-02-22T15:13:29.873Z</updated>
   <id>http://dm732.xyz/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://dm732.xyz/2016/02/22/github%E8%B5%84%E6%BA%90%E7%9B%AE%E5%BD%95%E7%95%99%E5%AD%98/"/>
     <id>http://dm732.xyz/2016/02/22/github资源目录留存/</id>
     <published>2016-02-22T08:03:45.000Z</published>
-    <updated>2016-02-22T15:12:57.043Z</updated>
+    <updated>2016-02-22T15:13:29.873Z</updated>
     
     <content type="html">&lt;h2 id=&quot;资源目录&quot;&gt;&lt;a href=&quot;#资源目录&quot; class=&quot;headerlink&quot; title=&quot;资源目录&quot;&gt;&lt;/a&gt;资源目录&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#语言无关&quot;&gt;语言无关&lt;/a&gt;&lt;ul&gt;
@@ -33,7 +33,7 @@
 &lt;li&gt;&lt;a href=&quot;#函数式概念&quot;&gt;函数式概念&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#分布式系统&quot;&gt;分布式系统&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#在线教育&quot;&gt;在线教育&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#大数据&quot;&gt;大数据&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#大数据&quot;&gt;大数据&lt;/a&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#操作系统&quot;&gt;操作系统&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#数据库&quot;&gt;数据库&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#智能系统&quot;&gt;智能系统&lt;/a&gt;&lt;/li&gt;
@@ -47,7 +47,7 @@
 &lt;li&gt;&lt;a href=&quot;#计算机图形学&quot;&gt;计算机图形学&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#设计模式&quot;&gt;设计模式&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#软件开发方法&quot;&gt;软件开发方法&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#项目相关&quot;&gt;项目相关&lt;/a&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#项目相关&quot;&gt;项目相关&lt;/a&gt;&lt;!-- more --&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#语言相关&quot;&gt;语言相关&lt;/a&gt;&lt;ul&gt;
@@ -596,21 +596,7 @@
 &lt;li&gt;&lt;a href=&quot;#函数式概念&quot;&gt;函数式概念&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#分布式系统&quot;&gt;分布式系统&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#在线教育&quot;&gt;在线教育&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#大数据&quot;&gt;大数据&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#操作系统&quot;&gt;操作系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#数据库&quot;&gt;数据库&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#智能系统&quot;&gt;智能系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#正则表达式&quot;&gt;正则表达式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#版本控制&quot;&gt;版本控制&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#程序员杂谈&quot;&gt;程序员杂谈&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#管理和监控&quot;&gt;管理和监控&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#编程艺术&quot;&gt;编程艺术&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#编译原理&quot;&gt;编译原理&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#编辑器&quot;&gt;编辑器&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#计算机图形学&quot;&gt;计算机图形学&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#设计模式&quot;&gt;设计模式&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#软件开发方法&quot;&gt;软件开发方法&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#项目相关&quot;&gt;项目相关&lt;/a&gt;
+&lt;li&gt;&lt;a href=&quot;#大数据&quot;&gt;大数据&lt;/a&gt;
     
     </summary>
     
