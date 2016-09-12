@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yongfeim.site/"/>
-  <updated>2016-09-12T13:53:36.255Z</updated>
+  <updated>2016-09-12T13:57:13.066Z</updated>
   <id>http://yongfeim.site/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yongfeim.site/2016/09/12/It's%20Her./"/>
     <id>http://yongfeim.site/2016/09/12/It's Her./</id>
     <published>2016-09-12T13:03:45.000Z</published>
-    <updated>2016-09-12T13:53:36.255Z</updated>
+    <updated>2016-09-12T13:57:13.066Z</updated>
     
-    <content type="html">&lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;遇到，是在成都，&lt;img src=&quot;http://i.imgur.com/jOuk930.jpg&quot; width=&quot;480&quot; height=&quot;640&quot; alt=&quot;洋&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;遇到，是在成都，&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;老房子，操场，还有枇杷树。&lt;br&gt;&lt;br&gt;那时还常听李宗盛的歌。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;年少的时候，&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;确实太容易郁郁伤神，&lt;/p&gt;
@@ -46,12 +46,17 @@
 &lt;p&gt;&lt;br&gt;脑海涌现,未来和眼前。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;此时此刻，充盈并希冀。&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;海、科技、和你。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/jOuk930.jpg&quot; width=&quot;480&quot; height=&quot;640&quot; alt=&quot;洋&quot; align=&quot;left&quot;&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;遇到，是在成都，&lt;img src=&quot;http://i.imgur.com/jOuk930.jpg&quot; width=&quot;480&quot; height=&quot;640&quot; alt=&quot;洋&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;老房子，操场，还有枇杷树。&lt;
+      &lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;遇到，是在成都，&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;老房子，操场，还有枇杷树。&lt;br&gt;&lt;br&gt;那时还常听李宗盛的歌。&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;年少的时候，&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;确实太容易郁郁伤神，&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;因为太多的不必要而苦闷。&lt;/p&gt;
+&lt;p
     
     </summary>
     
