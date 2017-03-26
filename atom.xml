@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yongfeim.site/"/>
-  <updated>2017-03-25T02:47:03.760Z</updated>
+  <updated>2017-03-26T00:28:51.550Z</updated>
   <id>http://yongfeim.site/</id>
   
   <author>
@@ -14,6 +14,126 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何定义一款好产品</title>
+    <link href="http://yongfeim.site/2017/03/26/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89%E4%B8%80%E6%AC%BE%E5%A5%BD%E4%BA%A7%E5%93%81/"/>
+    <id>http://yongfeim.site/2017/03/26/如何定义一款好产品/</id>
+    <published>2017-03-26T00:21:47.000Z</published>
+    <updated>2017-03-26T00:28:51.550Z</updated>
+    
+    <content type="html">&lt;p&gt;1、对企业来说，它吸引用户（被需要）;它产生利润（及时有效地满足用户需求）。&lt;br&gt;对用户来说，忽视不了它的存在（需要它）；感受不到它的压迫（喜欢它）。&lt;/p&gt;
+&lt;p&gt;2、是否能够赢得用户时间。&lt;br&gt;相关联的是时间的投入产出分别是什么。就时间投入而言，产出的定义发生变化，比如听歌发呆，这样的产出是一份难得的闲适。&lt;br&gt;如果需要有产出，那么就将这种产出需要被放大到极致，发挥到最优雅。&lt;/p&gt;
+&lt;p&gt;3、从需求来说，好产品真正地解决了某个具有普遍性的问题。从体验来说，好产品让人感觉有效、流畅。&lt;/p&gt;
+&lt;p&gt;4、从表现来说，好产品符合某个统一的设计规范，软件系统内的各个元素都不存在随意而为的情况。从服务来说，好产品就意味着好服务，好的服务让人感到满意。要让人感到满意，就要适时、好玩、满足、低成本。&lt;/p&gt;
+&lt;p&gt;5、从质量来说，好产品必然具有很好的稳定性，对异常情况做到了最大程度地友好处理。&lt;/p&gt;
+&lt;p&gt;6、从效果来说，好产品可以提升用户的幸福指数。好产品可以提升社会的运转效率。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;1、对企业来说，它吸引用户（被需要）;它产生利润（及时有效地满足用户需求）。&lt;br&gt;对用户来说，忽视不了它的存在（需要它）；感受不到它的压迫（喜欢它）。&lt;/p&gt;
+&lt;p&gt;2、是否能够赢得用户时间。&lt;br&gt;相关联的是时间的投入产出分别是什么。就时间投入而言，产出的定义发生变化，
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yongfeim.site/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈谈数据和运营</title>
+    <link href="http://yongfeim.site/2017/03/26/%E8%B0%88%E8%B0%88%E6%95%B0%E6%8D%AE%E5%92%8C%E8%BF%90%E8%90%A5/"/>
+    <id>http://yongfeim.site/2017/03/26/谈谈数据和运营/</id>
+    <published>2017-03-26T00:21:28.000Z</published>
+    <updated>2017-03-26T00:28:49.766Z</updated>
+    
+    <content type="html">&lt;p&gt;电商产品为改善消费用户的购买体验，需要在两个地方着重发力。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对商品本身的展示。生产日期、厂商、品牌、材料、颜色、包装、配件等有关商品本身的方方面面，需要全面、清晰地展现给消费者。&lt;/li&gt;
+&lt;li&gt;与商品关联信息的积累和展示。这类信息是在给消费者吃定心丸，让消费者放心地去消费。比如其他用户评论、相关商品、对生活、工作的改良等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在确定好待展示的内容后，可以对锦上添花部分的内容根据迭代节奏，逐步进行添加。如此以来既照顾到了开发进度，又对展示内容的效果有了度量。政府部门或者传统企业网站建设体验不好的相当一部分原因，在于对展示内容的把控能力不足。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;哪些内容需要展示，哪些内容可以进行展示？&lt;/li&gt;
+&lt;li&gt;某一个特定的内容，用什么样的形式进行展示？&lt;/li&gt;
+&lt;li&gt;内容间的关联，在从线下转化到线上的过程中，有什么是可以改进和优化的？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;很多执行者对以上内容的梳理有时相当随意，对商品内容的确定和组织缺乏掌控力。导致信息内容混乱、信息结构可用但繁杂。而应对这一情况，一个可以探索的方法就是通过用户统计数对产品内容和形式进行改进。市面上有很多类似友盟的第三方统计工具，让中小型企业得以减少开发成本。&lt;/p&gt;
+&lt;p&gt;####增加、维持参与人数&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新增用户&lt;/li&gt;
+&lt;li&gt;活跃用户 &lt;/li&gt;
+&lt;li&gt;启动次数&lt;/li&gt;
+&lt;li&gt;版本分布&lt;/li&gt;
+&lt;li&gt;渠道分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;####提高参与质量&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;留存用户&lt;/li&gt;
+&lt;li&gt;用户新鲜度&lt;/li&gt;
+&lt;li&gt;用户活跃度&lt;/li&gt;
+&lt;li&gt;使用时长&lt;/li&gt;
+&lt;li&gt;使用频率&lt;/li&gt;
+&lt;li&gt;访问页面&lt;/li&gt;
+&lt;li&gt;使用间隔分布&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;####引导参与方向&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;页面访问路劲&lt;/li&gt;
+&lt;li&gt;自定义事件&lt;/li&gt;
+&lt;li&gt;结构化事件&lt;/li&gt;
+&lt;li&gt;事件转化率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;####稳定性 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;错误分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;附：友盟数据统计说明&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/1402101-f5234494c7839214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/2525&quot; alt=&quot;友盟统计说明.png&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;电商产品为改善消费用户的购买体验，需要在两个地方着重发力。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对商品本身的展示。生产日期、厂商、品牌、材料、颜色、包装、配件等有关商品本身的方方面面，需要全面、清晰地展现给消费者。&lt;/li&gt;
+&lt;li&gt;与商品关联信息的积累和展示。这类信息是在给消费者吃
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yongfeim.site/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>互联网产品的生与死</title>
+    <link href="http://yongfeim.site/2017/03/26/%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%E7%9A%84%E7%94%9F%E4%B8%8E%E6%AD%BB/"/>
+    <id>http://yongfeim.site/2017/03/26/互联网产品的生与死/</id>
+    <published>2017-03-26T00:21:04.000Z</published>
+    <updated>2017-03-26T00:29:37.160Z</updated>
+    
+    <content type="html">&lt;p&gt;我们对事物的新鲜度保持的时长是有限的。一个商业概念，能否在收到群众关注，保持新鲜的阶段发展起来，是决定一个产品生死的关键。&lt;/p&gt;
+&lt;p&gt;新鲜事物发展的下一个阶段的关键，是实用以及持续性的优良体验。实用决定了是不是有价值存在，体验决定了价值是不是能够得到彰显。但对很多互联网产品来说，其提供的服务并不是从无到有的，也就是说本质上不是新鲜事物。这类产品的发展而言，体验就更加重要了。&lt;/p&gt;
+&lt;p&gt;在产品的整个生命周期内，活跃用户数判断产品生死的风向标。它就像是大树的枝叶，枝繁叶茂自然生命力旺盛，枝枯叶败搁谁也不会承认它生机勃勃。当然死灰也有复燃的可能，这不在本文的讨论范围内。&lt;/p&gt;
+&lt;p&gt;上面的叙述说了三个事情，是否获得关注，是否好用，是否活跃。能否获得关注决定了产品能不能发芽，是否好用决定了产品能不能成长，活不活跃决定了产品能不能成熟。&lt;/p&gt;
+&lt;p&gt;获得关注的方式有很多种，而不仅仅是被每天议论。唯一准确是判断条件是看产品是不是获得了用户的时间。一个产品即使每天被讨论，但没有让大量的人体验和使用，那就不是一个成功的社会化产品，比如导弹之于吃瓜群众。&lt;/p&gt;
+&lt;p&gt;好用的东西是有一定有自身的能量来源和合理的输出方式。互联网最主要的能量来源于聚集和处理信息。得天独厚的行业支撑就在于人们的一切日常行为都在不断的接收和发出信息。因此，好用的东西一定有合适的切入场景。&lt;/p&gt;
+&lt;p&gt;活跃与否是互联网产品是否可商品化的关键。如果不能够正当的频繁地出现在人们的生活里，那么这款产品对商业而言是低质的。这样的产品最理想的归属是作为稳定的系统级实体的一个组件。就像建筑中的砖块。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我们对事物的新鲜度保持的时长是有限的。一个商业概念，能否在收到群众关注，保持新鲜的阶段发展起来，是决定一个产品生死的关键。&lt;/p&gt;
+&lt;p&gt;新鲜事物发展的下一个阶段的关键，是实用以及持续性的优良体验。实用决定了是不是有价值存在，体验决定了价值是不是能够得到彰显。但对很多互联网
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yongfeim.site/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
   
   <entry>
     <title>她</title>
@@ -56,6 +176,48 @@
       <category term="产品" scheme="http://yongfeim.site/tags/%E4%BA%A7%E5%93%81/"/>
     
       <category term="笔记" scheme="http://yongfeim.site/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Axure进阶功能</title>
+    <link href="http://yongfeim.site/2016/03/26/Axure%E8%BF%9B%E9%98%B6%E5%8A%9F%E8%83%BD/"/>
+    <id>http://yongfeim.site/2016/03/26/Axure进阶功能/</id>
+    <published>2016-03-26T00:20:26.000Z</published>
+    <updated>2017-03-26T00:33:51.798Z</updated>
+    
+    <content type="html">&lt;p&gt;对产品经理来说，Axure绝不是一个陌生的工具。不论还有多少原型设计软件，Axure都是一个不可忽视的存在。&lt;/p&gt;
+&lt;p&gt;从13年接触产品工作，到今天也有三年多的时间了，因为公司来新人的缘故，就它的使用又有了些讨论，所以就想做个小回顾。&lt;/p&gt;
+&lt;p&gt;基本的组件就不再谈了，分享下原型共享的一点东西。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;APP原型在手机端的展示。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;做APP原型时，尽量使用动态面板而不是页面间的跳转来展示。一方面动态面板的切换效果要好于页面跳转，另一方面若使用页面跳转，在使用Axshare或者手机浏览器进行仿真展示时，会出现跳转不灵敏或不可跳转的现象。&lt;/p&gt;
+&lt;p&gt;导出html文件后，在手机端有两种方式可以展示原型文件。&lt;/p&gt;
+&lt;p&gt;方法一，分享到Axure提供的开放空间，使用Axshare查看。现在安卓版和iOS版本的使用体验均不错，下面是连接：&lt;/p&gt;
+&lt;p&gt;安卓版 &lt;a href=&quot;http://www.wandoujia.com/apps/com.axure.axshare&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Axshare豌豆荚下载&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;iOS版Axshare APP &lt;a href=&quot;https://itunes.apple.com/gb/app/axshare/id970847939?mt=8&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;store下载&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;这种方式的体验很好，可以全屏模拟APP在适配手机上的表现。适配是一个要注意的问题，如果用iPhone6/7展示，画原型的时候可以使用375*667作为屏幕大小。根据有没有状态栏，酌情减少20px即可。&lt;/p&gt;
+&lt;p&gt;方法二，如果不愿意将原型分享到Axure的开放空间，则可以放到自己的空间中，私密性更好。例如可以使用GitHub的免费空间。然后讲分享地址拿出来用于展示，用手机端的火狐浏览器，或者Safari浏览器效果都比较理想。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/NEefGFF.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;分享地址的提取位置&lt;/p&gt;
+&lt;p&gt;2.自定义组件库&lt;/p&gt;
+&lt;p&gt;Axure中有两大功能可以极大地提升工作效率，一个是模板，一个是组件库。模板用在多个页面同一静态内容的地方，修改一次，处处跟上。自定义组件多用于动态功能，比如输入框字数倒计数、加减按钮对数字的控制、轮播图效果等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/vnASt6U.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;创建组件库&lt;/p&gt;
+&lt;p&gt;掌握了上面的两点，可以说对Axure的使用算基本掌握了。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;对产品经理来说，Axure绝不是一个陌生的工具。不论还有多少原型设计软件，Axure都是一个不可忽视的存在。&lt;/p&gt;
+&lt;p&gt;从13年接触产品工作，到今天也有三年多的时间了，因为公司来新人的缘故，就它的使用又有了些讨论，所以就想做个小回顾。&lt;/p&gt;
+&lt;p&gt;基本的组件就不再谈了
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yongfeim.site/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
